@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2jHbHoOif7KH4gBq3sMQLWHy+hjLF2RaTNuln8iMcD9BVGfAmCd8lI6xD9GVnhYArvAFkWWLA96nKcsHf3cDXw==",
+  "success": true,
+  "projectFilePath": "D:\\Quasar-master\\Quasar-master\\Quasar.Server\\Quasar.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\mousekeyhook\\5.6.0\\mousekeyhook.5.6.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\open.nat\\2.1.0\\open.nat.2.1.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\protobuf-net\\2.4.8\\protobuf-net.2.4.8.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\vestris.resourcelib\\2.1.0\\vestris.resourcelib.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

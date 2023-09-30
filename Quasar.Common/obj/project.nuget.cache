@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "frhS0B7a1MXnfHiOxmA1yTTVSnk40HQuB97f8HmT09RMCC/6+dl71izCko2Vm/r75nab/YWwSWBoJ6kNHZeouQ==",
+  "success": true,
+  "projectFilePath": "D:\\Quasar-master\\Quasar-master\\Quasar.Common\\Quasar.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\protobuf-net\\2.4.8\\protobuf-net.2.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}

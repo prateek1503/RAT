@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwFMQSo3631WQAu+Ecpqv+JLPRw9XW2dDpcZeEcg9MtZ8qTwXQuBe2oO4rFHSB1diOdHR92tBAm51X12XglKfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Quasar-master\\Quasar-master\\Quasar.Client\\Quasar.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prate\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.18.2\\ilrepack.lib.msbuild.task.2.0.18.2.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\mousekeyhook\\5.6.0\\mousekeyhook.5.6.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\prate\\.nuget\\packages\\protobuf-net\\2.4.8\\protobuf-net.2.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}
